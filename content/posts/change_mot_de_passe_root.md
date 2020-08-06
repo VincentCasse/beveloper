@@ -1,6 +1,7 @@
 ---
 title: "Changer son mot de passe root en cas de secours"
 date: 2011-08-03T22:16:48+02:00
+draft: false
 ---
 
 Bonsoir à tous,

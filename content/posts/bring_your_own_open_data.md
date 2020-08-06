@@ -1,6 +1,7 @@
 ---
 title: "Bring your own open data"
 date: 2017-05-19T22:16:48+02:00
+draft: false
 ---
 
 Je vis avec une institutrice professeur des écoles. Je n'ai aucun soucis avec cela bien que chaque année, vers le mois d'avril, elle se prend la tête sur le mouvement. Vous ne connaissez pas ? C'est la procédure permettant aux professeurs des écoles de demander une mutation ou d'accéder à une classe fixe. Et comme en début de carrière, il faut attendre quelques années pour obtenir un poste fixe, le mouvement est une étape obligatoire depuis quelques années.

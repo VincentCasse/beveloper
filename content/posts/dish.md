@@ -1,6 +1,7 @@
 ---
 title: "Project Dish : Gestion de webradio"
 date: 2011-08-01 12:30:00+02:00
+draft: false
 ---
 
 Il y a de cela quelque mois, l'association Art en Sort a décidé de mettre en place une webradio. Sortie en même temps que son nouveau site Internet, cette webradio doit permettre de diffuser des émissions réalisés pour le plaisir par les adhérents, mais aussi lors d'animations proposées par l'association aux structures de la région (Lycée, centre de loisirs ...)

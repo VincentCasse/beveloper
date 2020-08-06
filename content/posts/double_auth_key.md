@@ -1,6 +1,7 @@
 ---
 title: "La double authentification par clé : comment ca marche ?"
 date: 2016-05-28T22:18:48+02:00
+draft: false
 ---
 
 En mars dernier, j'ai réalisé deux talks au Breizhcamp : une conférence pour les développeurs qui se déroule tous les ans à Rennes. Durant la keynote du jeudi, nous avons tous récupéré une clé U2F permettant de sécuriser nos comptes. J'ai voulu tester mais ca n'a pas été si simple. Petit retour d'expérience.

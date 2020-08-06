@@ -1,6 +1,7 @@
 ---
 title: "Symfony2, contraintes et Entity non valides"
 date: 2011-08-05T22:18:48+02:00
+draft: false
 ---
 
 Petite astuce du soir pour le développement sous Symfony 2 : 

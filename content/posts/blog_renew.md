@@ -1,6 +1,7 @@
 ---
 title: "Blog renew"
 date: 2014-08-19T22:18:48+02:00
+draft: false
 ---
 
 Hey everyone!

@@ -1,6 +1,7 @@
 ---
 title: "Don't trust CA? How to configure DANE to secure your SSL certificate"
 date: 2014-11-13T22:18:48+02:00
+draft: false
 ---
 
 You think that your customers are secured against man-in-the-middle-attack using a SSL certificate validated by a Certificate Authorities? Indeed, only Certificate Authorities can ensure your certificate is linked with your website and was not build by a hacker.

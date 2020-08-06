@@ -1,6 +1,7 @@
 ---
 title: "La mare à thon 2011"
 date: 2011-07-31T03:12:00+02:00
+draft: false
 ---
 
 Je vous ai déjà parlé d'un festival de musique, organisé par Art en Sort. Quelques groupes de la programmation de cette année méritent le coup d'oeil. Ce sont mes préférences, mais vous pouvez découvrir toute la programmation sur le [site](http://lamareathon.com/pages/programme.php) officiel de l'évènement.![Affiche 2001 La mare à Thon](/img/mat2011/l_m.jpg)Ne loupez surtout pas le vendredi soir ! Les trois premiers groupes que je recommande jouent le vendredi soir à partir de 22h15.

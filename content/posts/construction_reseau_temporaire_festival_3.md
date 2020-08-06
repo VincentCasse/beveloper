@@ -1,6 +1,7 @@
 ---
 title: "Construction d'un réseau temporaire pour un festival 3"
 date: 2011-08-05T22:18:48+02:00
+draft: false
 ---
 
 Pour toutes les personnes n'ayant pas lu les deux articles précédent, il est conseillé de les lire rapidement ici et ici afin de bien comprendre le contexte et l'architecture de ce réseau.

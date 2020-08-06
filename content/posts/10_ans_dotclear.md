@@ -1,6 +1,7 @@
 ---
 title: "10 ans de Dotclear"
 date: 2013-08-13T22:18:48+02:00
+draft: false
 ---
 
 Aujourd'hui, Dotclear a 10 ans. Mais c'est quoi Dotclear ?

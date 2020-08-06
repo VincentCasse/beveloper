@@ -1,6 +1,7 @@
 ---
 title: "Construction d'un réseau temporaire pour un festival"
 date: 2011-07-31T01:54:00+02:00
+draft: false
 ---
 
 Bonsoir à tous,

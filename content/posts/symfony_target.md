@@ -1,6 +1,7 @@
 ---
 title: "InvalidArgumentException The target directory 'www' does not exist"
 date: 2013-05-15T22:18:48+02:00
+draft: false
 ---
 
 Avec Symfony2 sur un serveur mutualisé d'OVH (offre pro), il est possible que vous obteniez l'erreur suivante : 

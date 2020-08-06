@@ -1,6 +1,7 @@
 ---
 title: "How to configure DNSSEC on your server?"
 date: 2014-08-27T22:18:48+02:00
+draft: false
 ---
 
 Since few years, I use my own bind server to announce my domain names (I buy my domains on ovh.com and change the nameserver inside the control panel). I have two servers, one master and one slave in two differents datacenters in case of downtime.

@@ -1,6 +1,7 @@
 ---
 title: "Faire revivre une raie manta"
 date: 2012-08-05T22:18:48+02:00
+draft: false
 ---
 
 Suite à des problèmes de connexion à Internet (perte de synchronisation ADSL avec ma freebox revolution), j'ai recherché une solution pour avoir un peu de connexion.
